@@ -7,4 +7,4 @@ Berikut adalah tampilan antarmuka aplikasi kalkulator yang sederhana ini
 
 ## DESIGN MODE
 
-![Tampilan Aplikasi](Screenshot from 2025-06-24 09-47-50.png)
+![Tampilan Aplikasi](Screenshot%20from%202025-06-24 09-47-50.png)
